@@ -1,2 +1,5 @@
 # ev-autoreg-console
-A simple MVP console app, later evolved into EV Autoregistrar project
+
+Первая версия проекта [ev-autoreg](https://github.com/eveloth/ev-autoreg/), лежит здесь в качестве истории.
+
+Оно «просто работает» не в лучшем смысле этого выражения, но дорого мне, как память :)
